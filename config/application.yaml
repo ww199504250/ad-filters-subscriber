@@ -95,7 +95,42 @@ application:
       - name: GoodbyeAds-Samsung
         path: https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Extension/GoodbyeAds-Samsung-AdBlock.txt
 
-
+      - name:tt
+        path:https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
+         
+      - name:gh
+        path:https://raw.githubusercontent.com/qq5460168/666/master/dns.txt
+         
+      - name:hjj
+        path:https://raw.githubusercontent.com/qq5460168/666/master/rules.txt
+       
+      - name:bbn
+        path:https://gh-proxy.com/raw.githubusercontent.com/Lynricsy/HyperADRules/master/dns.txt
+         
+      - name:bnn
+        path:https://raw.githubusercontent.com/xndeye/adblock_list/refs/heads/release/easylist.txt
+         
+      - name:bnnj
+        path:https://raw.githubusercontent.com/neodevpro/neodevhost/master/host
+         
+      - name:bnkk
+        path:https://raw.githubusercontent.com/045200/EasyAds/master/data/rules/dns.txt
+         
+      - name:kkgg
+        path:https://ad.kirychan.com/KR_DNS_Filter.txt
+         
+      - name:cbjk
+        path:https://raw.githubusercontent.com/damengzhu/abpmerge/main/abpmerge.txt
+         
+      - name:chjm
+        path:https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt
+         
+      - name:jngf
+        path:https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt
+         
+      - name:bbnj
+        path:https://raw.githubusercontent.com/hululu1068/AdGuard-Rule/main/rule/adgh.txt
+         
     local:
       - name: 'xndeye private adblock list'
         path: 'rule/private.txt'
